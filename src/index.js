@@ -1,5 +1,5 @@
 // @flow
-//This is branch1 commit2
+//This is branch1 commit3
 import RNCamera, { type Status as _CameraStatus } from './RNCamera';
 import FaceDetector from './FaceDetector';
 
